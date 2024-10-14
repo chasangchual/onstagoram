@@ -5,7 +5,7 @@ It showcases how to create a user interface similar to Instagram and how to mana
 
 <img src="https://github.com/chasangchual/onstagoram/blob/main/docs/capture-home.png" alt="Home View" width="300" />  <img src="https://github.com/chasangchual/onstagoram/blob/main/docs/capture-search.png" alt="Search View" width="300" />
 <br>
-[![Onstagoram](https://i.ytimg.com/vi/kDk0tgzlYyc/oar2.jpg)](https://www.youtube.com/shorts/kDk0tgzlYyc "Instagram UI Clone")
+https://github.com/chasangchual/onstagoram/blob/main/docs/recording.mp4
 
 ## Getting Started
 
