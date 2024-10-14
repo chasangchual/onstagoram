@@ -4,7 +4,7 @@ This repository contains a Flutter Instagram UI clone. The project demonstrates 
 It showcases how to create a user interface similar to Instagram and how to manage the state, user input, and UI updates with GetX.
 
 ![Home View](docs/capture-home.png{: width="25%"}
-<img src="https://github.com/chasangchual/onstagoram/blob/main/docs/capture-home.png" alt="search view" style="zoom:25%;" />
+<img src="https://github.com/chasangchual/onstagoram/blob/main/docs/capture-search.png" alt="search view" width="300" />
 
 [![Onstagoram]](https://www.youtube.com/shorts/kDk0tgzlYyc)
 
