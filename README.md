@@ -5,6 +5,7 @@ It showcases how to create a user interface similar to Instagram and how to mana
 
 <img src="https://github.com/chasangchual/onstagoram/blob/main/docs/capture-home.png" alt="Home View" width="300" /><img src="https://github.com/chasangchual/onstagoram/blob/main/docs/capture-search.png" alt="Search View" width="300" />
 <br>
+
 https://github.com/user-attachments/assets/ee1c7536-1d47-4b90-aaa0-1325504ce1de
 
 
