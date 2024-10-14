@@ -38,18 +38,16 @@ class FeedSearchBar extends StatelessWidget {
           cursorColor: Colors.black38,
           scrollPadding: EdgeInsets.all(0),
           decoration: InputDecoration(
-              filled: true,
-              fillColor: Colors.grey.shade200,
-              prefixIcon: Icon(Icons.search),
-              hintText: 'search keyboard',
-              hintStyle: TextStyle(color: Colors.black12),
-              border: OutlineInputBorder(
-                  borderRadius: BorderRadius.circular(20),
-                  borderSide: BorderSide(color: Colors.grey.shade200, width: 1)),
-              enabledBorder: OutlineInputBorder(
-                  borderRadius: BorderRadius.circular(20),
-                  borderSide: BorderSide(color: Colors.grey.shade200, width: 1)),
-              contentPadding: EdgeInsets.all(0)),
+            filled: true,
+            fillColor: Colors.grey.shade200,
+            prefixIcon: Icon(Icons.search),
+            hintText: 'search keyboard',
+            hintStyle: TextStyle(color: Colors.black12),
+            border: OutlineInputBorder(
+                borderRadius: BorderRadius.circular(20), borderSide: BorderSide(color: Colors.grey.shade200, width: 1)),
+            enabledBorder: OutlineInputBorder(
+                borderRadius: BorderRadius.circular(20), borderSide: BorderSide(color: Colors.grey.shade200, width: 1)),
+          ),
         ),
       ),
     );
