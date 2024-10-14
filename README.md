@@ -8,6 +8,12 @@ It showcases how to create a user interface similar to Instagram and how to mana
 [![watch Onstagoram](https://github.com/chasangchual/onstagoram/blob/main/docs/youtuve-thumb.png)](https://www.youtube.com/shorts/kDk0tgzlYyc)
 [![watch Onstagoram](https://github.com/chasangchual/onstagoram/blob/main/docs/youtuve-thumb.png)](https://github.com/chasangchual/onstagoram/blob/main/docs/recording.mp4)
 
+
+
+https://github.com/user-attachments/assets/ee1c7536-1d47-4b90-aaa0-1325504ce1de
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
