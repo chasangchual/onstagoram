@@ -5,13 +5,7 @@ It showcases how to create a user interface similar to Instagram and how to mana
 
 <img src="https://github.com/chasangchual/onstagoram/blob/main/docs/capture-home.png" alt="Home View" width="300" /><img src="https://github.com/chasangchual/onstagoram/blob/main/docs/capture-search.png" alt="Search View" width="300" />
 <br>
-[![watch Onstagoram](https://github.com/chasangchual/onstagoram/blob/main/docs/youtuve-thumb.png)](https://www.youtube.com/shorts/kDk0tgzlYyc)
-[![watch Onstagoram](https://github.com/chasangchual/onstagoram/blob/main/docs/youtuve-thumb.png)](https://github.com/chasangchual/onstagoram/blob/main/docs/recording.mp4)
-
-
-
 https://github.com/user-attachments/assets/ee1c7536-1d47-4b90-aaa0-1325504ce1de
-
 
 
 ## Getting Started
@@ -51,6 +45,8 @@ The **main view** is the starting point of the app, built with the **Scaffold** 
 
 The app’s theme, including colors and fonts, is defined using **ThemeData** to ensure consistency across the entire app.
 
+<img src="https://github.com/chasangchual/onstagoram/blob/main/docs/main-breakdown.png" alt="Home View" width="500" />
+
 ---
 
 ## Home View
@@ -78,6 +74,8 @@ The **Home view** is split into two parts:
         - The second group contains icons for post options like the three-dot menu.
     - For more advanced layout requirements (such as multi-line captions), **RichText()** and nested **TextSpan** are used to manage complex text formatting.
 
+<img src="https://github.com/chasangchual/onstagoram/blob/main/docs/fee-head-bar-breakdown.png" alt="Home View" width="500" />
+
 ### Code Snippet (User Story Container)
 
 ```dart
@@ -91,6 +89,8 @@ Container(
       borderRadius: BorderRadius.circular(40)),
 )
 ```
+
+<img src="https://github.com/chasangchual/onstagoram/blob/main/docs/home-breakdown.png" alt="Home View" width="500" />
 
 ---
 
@@ -132,6 +132,8 @@ TextField(
       contentPadding: EdgeInsets.all(0)),
 )
 ```
+
+<img src="https://github.com/chasangchual/onstagoram/blob/main/docs/search-breakdown.png" alt="Home View" width="500" />
 
 ---
 
